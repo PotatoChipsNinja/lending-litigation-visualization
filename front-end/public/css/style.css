@@ -1,0 +1,24 @@
+#copyright {
+  position: absolute;
+  bottom: 10px;
+  width: 250px;
+  text-align: center;
+  font-size: 90%;
+}
+
+#copyright a {
+  color: unset;
+  text-decoration: none;
+}
+
+.two-lines {
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+}
+
+.Vue-Toastification__container {
+  margin-top: 3.2rem;
+}
