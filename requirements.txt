@@ -1,0 +1,5 @@
+numpy==1.21.0
+Flask==2.0.1
+jieba==0.42.1
+gevent==21.1.2
+scikit_learn==0.24.2
